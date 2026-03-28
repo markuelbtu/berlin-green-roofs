@@ -40,6 +40,7 @@ dependencies = [
     { name = "numpy" },
     { name = "pandas" },
     { name = "scikit-learn" },
+    { name = "shapely" },
 ]
 
 [package.metadata]
